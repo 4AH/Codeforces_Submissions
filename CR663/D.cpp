@@ -58,7 +58,7 @@ int main() {
 				}
 				ll ans=INF;
 				ans=min(dp[m-2][1],dp[m-2][0]+1);
-					cout << ans << endl;
+				cout << ans << endl;
 			}
 		}
 	}
